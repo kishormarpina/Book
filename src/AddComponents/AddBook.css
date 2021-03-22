@@ -1,0 +1,23 @@
+.formcontainer{
+    background-color:blueviolet;
+    text-align: center;
+    padding: auto;
+    border: chocolate;
+
+}
+.postsubmit{ 
+    text-align: center;
+    padding: auto;
+    color: green;
+    text-emphasis-color: black;
+
+}
+.formcontainer{
+    color:lightslategray;
+    text-decoration-thickness: 20px;
+
+}
+.input_container{
+    color: lightcoral;
+    border: lightcoral;
+}

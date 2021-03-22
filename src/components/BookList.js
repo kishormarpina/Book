@@ -24,6 +24,7 @@ class BookList extends React.Component{
 			display: !this.state.display,
 		});
     };
+
     render(){
         let ele = null;
         if(this.state.book && !this.state.display) {
